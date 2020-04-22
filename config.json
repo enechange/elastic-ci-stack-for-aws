@@ -1,0 +1,94 @@
+[
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "enechange"
+  },
+  {
+    "ParameterKey": "BuildkiteAgentToken",
+    "ParameterValue": "65da97706a3bf228158465f9b89b819b7b5265c8514ed70fea"
+  },
+  {
+    "ParameterKey": "BuildkiteAgentTags",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "BuildkiteAgentTimestampLines",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "BuildkiteQueue",
+    "ParameterValue": "default"
+  },
+  {
+    "ParameterKey": "AgentsPerInstance",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "SecretsBucket",
+    "ParameterValue": "buildkite.secret"
+  },
+  {
+    "ParameterKey": "ArtifactsBucket",
+    "ParameterValue": "buildkite.artifacts"
+  },
+  {
+    "ParameterKey": "BootstrapScriptUrl",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "AuthorizedUsersUrl",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t3.medium"
+  },
+  {
+    "ParameterKey": "SpotPrice",
+    "ParameterValue": "0.1"
+  },
+  {
+    "ParameterKey": "MaxSize",
+    "ParameterValue": "10"
+  },
+  {
+    "ParameterKey": "MinSize",
+    "ParameterValue": "0"
+  },
+  {
+    "ParameterKey": "ScaleUpAdjustment",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "ScaleDownAdjustment",
+    "ParameterValue": "-1"
+  },
+  {
+    "ParameterKey": "RootVolumeSize",
+    "ParameterValue": "50"
+  },
+  {
+    "ParameterKey": "ECRAccessPolicy",
+    "ParameterValue": "poweruser"
+  },
+  {
+    "ParameterKey": "EnableCostAllocationTags",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "CostAllocationTagName",
+    "ParameterValue": "Service"
+  },
+  {
+    "ParameterKey": "CostAllocationTagValue",
+    "ParameterValue": "buildkite"
+  },
+  {
+    "ParameterKey": "EnableSecretsPlugin",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "EnableECRPlugin",
+    "ParameterValue": "true"
+  }
+]
